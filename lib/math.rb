@@ -9,11 +9,13 @@ puts difference
 end
 
 def division(num1, num2)
-
+quotient = num1 / num2
+puts quotient
 end
 
 def multiplication(num1, num2)
-
+product = num1 * num2
+puts pruduct 
 end
 
 def modulo(num1, num2)
